@@ -1,0 +1,6 @@
+.idea
+storage/*
+!storage/.gitkeep
+!storage/gmail_credentials/.gitkeep
+vendor
+app_credentials.json
